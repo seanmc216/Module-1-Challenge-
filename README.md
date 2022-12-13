@@ -8,8 +8,7 @@ N/A
 ## Usage
 
 The website works as intended. 
-```
-<alt>``` tags have been added and a title tag with a ```<div class="hero">``` tag as appropriate. Also, a ```<nav>``` tag was added within the header.
+```<alt>``` tags have been added and a title tag with a ```<div class="hero">``` tag as appropriate. Also, a ```<nav>``` tag was added within the header.
 ## Credits
 N/A
 ## License
